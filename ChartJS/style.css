@@ -1,0 +1,21 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+
+.card{
+    display: flex;
+    margin: auto;
+    width: 90%;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    padding: 40px 0 40px 0;
+}
+
+.chart{
+    width: 45%;
+    background-color: #DDDDDD;
+    border-radius: 10px;
+}
